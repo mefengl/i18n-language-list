@@ -8,7 +8,6 @@ const base = `
 // @author       [Your Name or Username]
 // @version      [Your Script Version]
 // @namespace    [Your Script Namespace or Repository URL]
-// @require      [Required external libraries or resources, if any]
 // @icon         [An icon URL for your script]
 // @license      [Your preferred license, e.g. MIT]
 // @match        [Matching URL patterns for your script to run on]
